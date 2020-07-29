@@ -10,10 +10,10 @@ git clone https://github.com/z3dc0ps/altsub-pro
 go run main.go
 ```
 ## Video 
-![GIF](https://github.com/z3dc0ps/altsub-pro/assets/main.gif)
+![GIF](https://github.com/z3dc0ps/altsub-pro/blob/master/assets/main.gif)
 
 ## Example
-![JPEG](https://github.com/z3dc0ps/altsub-pro/assets/main.JPEG)
+![JPEG](https://github.com/z3dc0ps/altsub-pro/blob/master/assets/main.JPG)
 
 
 ## Get Server Details ( Not Recommended )
@@ -21,10 +21,10 @@ go run main.go
 go run main-server.go
 ```
 ## Video 
-![GIF](https://github.com/z3dc0ps/altsub-pro/assets/main-server.gif)
+![GIF](https://github.com/z3dc0ps/altsub-pro/blob/master/assets/main-server.gif)
 
 ## Example
-![JPEG](https://github.com/z3dc0ps/altsub-pro/assets/main.JPEG)
+![JPEG](https://github.com/z3dc0ps/altsub-pro/blob/master/assets/main-server.JPG)
 
  
 <br>
