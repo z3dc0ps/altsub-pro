@@ -1,5 +1,5 @@
 ## Altsub-pro
-Tool For Scanning And Finding Available Subdomains
+Tool For Finding Available Subdomains
 ## Installation
 ```bash
 apt-get install golang
