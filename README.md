@@ -2,6 +2,7 @@
 Tool For Scanning And Finding Available Subdomains
 ## Installation
 ```bash
+apt-get install golang
 go get github.com/gookit/color
 git clone https://github.com/z3dc0ps/altsub-pro
 ```
